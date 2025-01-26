@@ -1,7 +1,7 @@
 # Python-code-playground
 Coding exercises and experiments
 
-
+---
 
 ### DL_ML_DSBootcamp_hw_WineType
 The task involved analyzing wine data using sklearn.datasets.load_wine. It required a preliminary analysis, building models with XGBoost and DNN, and training and validating results. The impact of parameter and architecture changes on model performance was analyzed and compared.
